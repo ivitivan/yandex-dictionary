@@ -1,0 +1,32 @@
+{
+  "name": "yandex-dictionary",
+  "version": "0.0.0",
+  "description": "Node.js library for Yandex.Dictionary API.",
+  "main": "lib/yandex-dictionary.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "request": "^2.57.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradbenetton/yandex-dictionary.git"
+  },
+  "keywords": [
+    "yandex",
+    "dictionary",
+    "translate",
+    "api"
+  ],
+  "author": "bradbenetton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradbenetton/yandex-dictionary/issues"
+  },
+  "homepage": "https://github.com/bradbenetton/yandex-dictionary"
+}
